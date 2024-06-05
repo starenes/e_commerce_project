@@ -10,4 +10,4 @@ HTML CSS (Tamamen responsive) JavaScript
 Mail : yildizenesim@gmail.com X hesap : https://x.com/yildizenesim GitHup: https://github.com/starenes Linkedin: https://www.linkedin.com/in/starenes/
 # Ekran Kaydı
 
-![Uploading Adsız tasarım (1).gif…]()
+
