@@ -9,6 +9,7 @@ HTML CSS (Tamamen responsive) JavaScript
 # İletişim
 Mail : yildizenesim@gmail.com X hesap : https://x.com/yildizenesim GitHup: https://github.com/starenes Linkedin: https://www.linkedin.com/in/starenes/
 # Ekran Kaydı
+![download](https://github.com/starenes/e_commerce_project/assets/164679866/7c4d422e-d1e7-4ea2-959d-23d76bdd1b5b)
 
-![Uploading download.gif…]()
+
 
